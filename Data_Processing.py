@@ -12,7 +12,7 @@ import pandas as pd
 from datetime import datetime as dt
 from unidecode import unidecode as ud
 import csv, xlrd
-f_path = 'C://Users//lrmantovani//Desktop//BRASA_Tech//Data//'
+f_path = 'C://Users//Username//BRASA_Tech//Data//'
 file_list = ['Fb1', 'Fb2', 'Lk1','Lk2', 'Lk3']
 def cleanup(d_df):
     global f_path, file_list
