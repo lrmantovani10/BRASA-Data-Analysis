@@ -5,7 +5,7 @@ import random as rd
 from datetime import datetime as dt
 import unidecode, os, csv, ast
 
-path = 'C:/Users/lrmantovani/Desktop/BRASA_Tech/Data/'
+path = 'C:/Users/Username/BRASA_Tech/Data/'
 fb = pd.read_csv(path+'Fb1.csv')
 fb1 = pd.read_csv(path+'Fb2.csv')
 lk1 = pd.read_csv(path+'Lk3.csv')
