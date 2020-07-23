@@ -1,3 +1,5 @@
+# Program I created for graphing relevant metrics provided by Facebook through Python's Pandas and Matplotlib libraries. 
+# Also includes a Typeform data grapher that traces initiated/submitted responses over time. 
 import pandas as pd 
 import matplotlib.pyplot as plt
 from matplotlib import style
